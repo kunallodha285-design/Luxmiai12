@@ -1,0 +1,22 @@
+{
+  "name": "Luxmi AI",
+  "short_name": "Luxmi",
+  "description": "Luxmi AI - Your intelligent companion created by Kunal",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
